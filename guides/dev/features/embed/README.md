@@ -14,7 +14,7 @@ The optional [Media Embed](http://ckeditor.com/addon/embed) and [Semantic Media 
 Both widgets allow to embed resources (videos, images, tweets, etc.) hosted by other services (called the "content providers") in the editor. By default the plugins use the [Iframely](https://iframely.com/) proxy service which supports over [1715 content providers](https://iframely.com/domains) such as [YouTube](http://youtube.com), [Vimeo](http://vimeo.com), [Twitter](http://twitter.com), [Instagram](http://instagtram.com), [Imgur](http://imgur.com), [GitHub](http://github.com), or [Google Maps](maps.google.com).
 
 <p class="tip">
-  Since 4.6.2 the content provider URL is set to empty by default. The former default URL is still available, although it's recommended to set up an account on the [Iframely](https://iframely.com/) service for better API usage tracking.
+  Since 4.6.2 the content provider URL is set to empty by default. The former default URL is still available, although it's recommended to set up an account on the [Iframely](https://iframely.com/) service for better control over the list of supported providers and their respective configurations.
 </p>
 
 ## Media Embed vs Semantic Media Embed
